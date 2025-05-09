@@ -12,6 +12,7 @@
     "homepage": "https://openapi-generator.tech",
     "license": "unlicense",
     "type": "library",
+    "name": "herrlevin/php-aerodatabox-client",
     "authors": [
         {
             "name": "OpenAPI",
